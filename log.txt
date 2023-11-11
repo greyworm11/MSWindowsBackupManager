@@ -1,0 +1,39 @@
+[1]: service installed successfully!
+[1]: backup directory: 'C:\Users\serge\Desktop\Study\test_arhivator\'.
+[2]: archive location: 'C:\Users\serge\Desktop\Study\backup_2023_11_08__16_49_18.zip'.
+[3]: 3 masks
+[4]: add folder 1 for the first time
+[5]: add folder 2 for the first time
+[6]: add folder 3 for the first time
+[7]: add RPC_server.exe for the first time
+[8]: add RPC_server_1.exe for the first time
+[9]: add aaa.txt for the first time
+[10]: add bbb.txt for the first time
+[11]: file aaa.txt has been modified, updating on archive
+[12]: file bbb.txt has been modified, updating on archive
+[13]: add ccc.txt for the first time
+[14]: add test1.cpp for the first time
+[15]: add leetcode_1.cpp for the first time
+[16]: add PascalABCNETSetup.exe for the first time
+[17]: add RPC_client.exe for the first time
+[18]: file RPC_server.exe has been modified, updating on archive
+[19]: file RPC_server_1.exe has been modified, updating on archive
+[20]: backup directory: 'C:\Users\serge\Desktop\Study\test_arhivator\'.
+[21]: archive location: 'C:\Users\serge\Desktop\Study\backup_2023_11_08__16_49_18.zip'.
+[22]: 3 masks
+[23]: folder 1 has been modified
+[24]: folder 2 has been modified
+[25]: folder 3 has been modified
+[26]: file RPC_server.exe has been modified, updating on archive
+[27]: file RPC_server_1.exe has been modified, updating on archive
+[28]: file aaa.txt has been modified, updating on archive
+[29]: file bbb.txt has been modified, updating on archive
+[30]: file aaa.txt already in archive, checking next
+[31]: file bbb.txt already in archive, checking next
+[32]: file ccc.txt has been modified, updating on archive
+[33]: file test1.cpp has been modified, updating on archive
+[34]: file leetcode_1.cpp has been modified, updating on archive
+[35]: file PascalABCNETSetup.exe has been modified, updating on archive
+[36]: file RPC_client.exe has been modified, updating on archive
+[37]: file RPC_server.exe already in archive, checking next
+[38]: file RPC_server_1.exe already in archive, checking next

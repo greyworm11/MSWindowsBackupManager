@@ -1,0 +1,6 @@
+C:\Users\serge\Desktop\Study\test_arhivator\
+C:\Users\serge\Desktop\Study
+3
+???.txt
+*.cpp
+*.exe
